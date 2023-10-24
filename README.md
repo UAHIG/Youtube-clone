@@ -10,6 +10,7 @@
 - :link: [![Git Bage](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
 
 ---
+<img width="599" alt="Screenshot 2023-10-24 at 15 27 38" src="https://github.com/UAHIG/Youtube-clone/assets/122532676/b42e25b9-9dd5-4a42-9d69-1a20003bb3ca">
 
 <!-- <p align="center">
       <img src="Project Logo Url" width="726">
